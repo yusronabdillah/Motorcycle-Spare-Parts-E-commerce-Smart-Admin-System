@@ -1,53 +1,54 @@
-# 🏍️ Sahabat Motor (MotoSpare) — E-Commerce Spare Part Motor
+# 🏍️ Sahabat Motor (MotoSpare) — Motorcycle Spare Parts E-Commerce
 
-Platform e-commerce katalog dan pemesanan spare part motor lengkap dengan integrasi WhatsApp / Telegram notification, kalkulator ongkir nasional, dan sistem checkout berbasis web.
+An e-commerce platform for browsing and ordering motorcycle spare parts, featuring WhatsApp / Telegram notification integration, a nationwide shipping cost calculator, and a web-based checkout system.
 
 ---
 
-## ✨ Fitur Utama
+## ✨ Key Features
 
-- 🔍 **Katalog & Pencarian Cepat**: Pencarian ribuan spare part berdasarkan nama produk, kode part OEM, maupun kategori motor.
-- 📦 **Manajemen Stok & Kategori**: Pemetaan kategori bertingkat dan informasi ketersediaan stok (*Tersedia* / *Habis*).
-- 🛒 **Shopping Cart & Checkout**: Keranjang belanja interaktif dengan estimasi harga dan ringkasan pesanan.
-- 🚚 **Kalkulator Ongkir**: Perhitungan estimasi ongkos kirim (Ojek Online lokal, ekspedisi J&T / JNE, hingga opsi ambil di toko).
-- 📲 **Notifikasi Pesanan Otomatis**: Integrasi bot (WhatsApp / Telegram) untuk konfirmasi pesanan dan verifikasi bukti pembayaran (QRIS / Transfer Bank).
-- ⚡ **Ringan & Cepat**: Dibangun dengan arsitektur frontend modular berbasis Vanilla JavaScript dan backend Node.js / Express.
+- 🔍 **Product Catalog & Quick Search**: Search thousands of spare parts by product name, OEM part number, or motorcycle category.
+- 📦 **Inventory & Category Management**: Hierarchical category mapping with stock availability information (*In Stock* / *Out of Stock*).
+- 🛒 **Shopping Cart & Checkout**: Interactive shopping cart with price estimates and order summaries.
+- 🚚 **Shipping Cost Calculator**: Estimated shipping fees for local ride-hailing services, J&T / JNE couriers, and in-store pickup options.
+- 📲 **Automated Order Notifications**: Bot integration (WhatsApp / Telegram) for order confirmations and payment proof verification (QRIS / bank transfer).
+- ⚡ **Lightweight & Fast**: Built with a modular Vanilla JavaScript frontend architecture and a Node.js / Express backend.
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Frontend
-- **HTML5 & CSS3** (Responsive modern UI)
+- **HTML5 & CSS3** (Modern, responsive UI)
 - **Vanilla JavaScript (ES6+)**
-- **Leaflet.js** (Deteksi lokasi & pemetaan jarak pengiriman)
+- **Leaflet.js** (Location detection and delivery distance mapping)
 
-### Backend & Integrasi
+### Backend & Integrations
 - **Node.js & Express.js**
-- **Telegram Bot API / WhatsApp Web JS** (Notifikasi admin & checkout)
-- **JSON / Mock Database Memory Engine** (Data store produk & pesanan)
+- **Telegram Bot API / WhatsApp Web JS** (Admin notifications and checkout)
+- **JSON / In-Memory Mock Database Engine** (Product and order data storage)
 
 ---
 
-## 📂 Struktur Project
+## 📂 Project Structure
 
 ```text
 ├── frontend/
-│   ├── index.html              # Halaman utama aplikasi
+│   ├── index.html              # Main application page
 │   ├── css/
-│   │   └── style.css           # Styling dan layout antarmuka
+│   │   └── style.css           # UI styling and layout
 │   └── js/
-│       ├── app.js              # Controller utama & router frontend
-│       ├── api.js              # Service API & komunikasi backend
-│       ├── cart.js             # Logika keranjang & checkout
-│       ├── mock_db.js          # Master dataset produk & kategori
-│       ├── shipping-engine.js  # Mesin kalkulasi ongkir
+│       ├── app.js              # Main controller and frontend router
+│       ├── api.js              # API service and backend communication
+│       ├── cart.js             # Shopping cart and checkout logic
+│       ├── mock_db.js          # Master product and category dataset
+│       ├── shipping-engine.js  # Shipping cost calculation engine
 │       └── utils.js            # Helper functions
 │
 ├── backend/
-│   ├── server.js               # Entry point Express server
-│   ├── db.js                   # Adapter dataset & query engine
+│   ├── server.js               # Express server entry point
+│   ├── db.js                   # Dataset adapter and query engine
 │   └── services/
-│       └── telegram.bot.js     # Layanan bot notifikasi pembayaran
+│       └── telegram.bot.js     # Payment notification bot service
 │
 └── README.md
+```

@@ -1,4 +1,4 @@
-# 🏍️ Sahabat Motor (MotoSpare) — Motorcycle Spare Parts E-Commerce
+Sahabat Motor (MotoSpare) — Motorcycle Spare Parts E-Commerce
 
 An e-commerce platform for browsing and ordering motorcycle spare parts, featuring WhatsApp / Telegram notification integration, a nationwide shipping cost calculator, and a web-based checkout system.
 

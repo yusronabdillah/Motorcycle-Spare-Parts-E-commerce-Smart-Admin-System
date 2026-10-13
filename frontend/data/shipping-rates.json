@@ -1,0 +1,1180 @@
+{
+  "Nanggroe Aceh Darussalam": {
+    "province": "Nanggroe Aceh Darussalam",
+    "zone": "SUMATERA_UTARA",
+    "baseCost": 65000,
+    "isProvinceFallback": true
+  },
+  "Sumatera Utara": {
+    "province": "Sumatera Utara",
+    "zone": "SUMATERA_UTARA",
+    "baseCost": 55000,
+    "isProvinceFallback": true
+  },
+  "Sumatera Barat": {
+    "province": "Sumatera Barat",
+    "zone": "SUMATERA",
+    "baseCost": 50000,
+    "isProvinceFallback": true
+  },
+  "Riau": {
+    "province": "Riau",
+    "zone": "SUMATERA",
+    "baseCost": 48000,
+    "isProvinceFallback": true
+  },
+  "Kepulauan Riau": {
+    "province": "Kepulauan Riau",
+    "zone": "SUMATERA_KEPULAUAN",
+    "baseCost": 52000,
+    "isProvinceFallback": true
+  },
+  "Jambi": {
+    "province": "Jambi",
+    "zone": "SUMATERA",
+    "baseCost": 48000,
+    "isProvinceFallback": true
+  },
+  "Bengkulu": {
+    "province": "Bengkulu",
+    "zone": "SUMATERA",
+    "baseCost": 49000,
+    "isProvinceFallback": true
+  },
+  "Sumatera Selatan": {
+    "province": "Sumatera Selatan",
+    "zone": "SUMATERA_SELATAN",
+    "baseCost": 45000,
+    "isProvinceFallback": true
+  },
+  "Kepulauan Bangka Belitung": {
+    "province": "Kepulauan Bangka Belitung",
+    "zone": "SUMATERA_KEPULAUAN",
+    "baseCost": 50000,
+    "isProvinceFallback": true
+  },
+  "Lampung": {
+    "province": "Lampung",
+    "zone": "SUMATERA_SELATAN",
+    "baseCost": 42000,
+    "isProvinceFallback": true
+  },
+  "Banten": {
+    "province": "Banten",
+    "zone": "JAWA_BARAT",
+    "baseCost": 35000,
+    "isProvinceFallback": true
+  },
+  "DKI Jakarta": {
+    "province": "DKI Jakarta",
+    "zone": "JABODETABEK",
+    "baseCost": 32000,
+    "isProvinceFallback": true
+  },
+  "Jawa Barat": {
+    "province": "Jawa Barat",
+    "zone": "JAWA_BARAT",
+    "baseCost": 35000,
+    "isProvinceFallback": true
+  },
+  "Jawa Tengah": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000,
+    "isProvinceFallback": true
+  },
+  "Daerah Istimewa Yogyakarta": {
+    "province": "Daerah Istimewa Yogyakarta",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000,
+    "isProvinceFallback": true
+  },
+  "Jawa Timur": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000,
+    "isProvinceFallback": true
+  },
+  "Bali": {
+    "province": "Bali",
+    "zone": "BALI",
+    "baseCost": 38000,
+    "isProvinceFallback": true
+  },
+  "Nusa Tenggara Barat": {
+    "province": "Nusa Tenggara Barat",
+    "zone": "NUSA_TENGGARA",
+    "baseCost": 45000,
+    "isProvinceFallback": true
+  },
+  "Nusa Tenggara Timur": {
+    "province": "Nusa Tenggara Timur",
+    "zone": "NUSA_TENGGARA",
+    "baseCost": 55000,
+    "isProvinceFallback": true
+  },
+  "Kalimantan Barat": {
+    "province": "Kalimantan Barat",
+    "zone": "KALIMANTAN",
+    "baseCost": 40000,
+    "isProvinceFallback": true
+  },
+  "Kalimantan Tengah": {
+    "province": "Kalimantan Tengah",
+    "zone": "KALIMANTAN",
+    "baseCost": 38000,
+    "isProvinceFallback": true
+  },
+  "Kalimantan Selatan": {
+    "province": "Kalimantan Selatan",
+    "zone": "KALIMANTAN",
+    "baseCost": 35000,
+    "isProvinceFallback": true
+  },
+  "Kalimantan Timur": {
+    "province": "Kalimantan Timur",
+    "zone": "KALIMANTAN_TIMUR",
+    "baseCost": 25000,
+    "isProvinceFallback": true
+  },
+  "Kalimantan Utara": {
+    "province": "Kalimantan Utara",
+    "zone": "KALIMANTAN_UTARA",
+    "baseCost": 15000,
+    "isProvinceFallback": true
+  },
+  "Sulawesi Utara": {
+    "province": "Sulawesi Utara",
+    "zone": "SULAWESI_UTARA",
+    "baseCost": 40000,
+    "isProvinceFallback": true
+  },
+  "Gorontalo": {
+    "province": "Gorontalo",
+    "zone": "SULAWESI_UTARA",
+    "baseCost": 42000,
+    "isProvinceFallback": true
+  },
+  "Sulawesi Tengah": {
+    "province": "Sulawesi Tengah",
+    "zone": "SULAWESI",
+    "baseCost": 38000,
+    "isProvinceFallback": true
+  },
+  "Sulawesi Barat": {
+    "province": "Sulawesi Barat",
+    "zone": "SULAWESI",
+    "baseCost": 38000,
+    "isProvinceFallback": true
+  },
+  "Sulawesi Selatan": {
+    "province": "Sulawesi Selatan",
+    "zone": "SULAWESI_SELATAN",
+    "baseCost": 35000,
+    "isProvinceFallback": true
+  },
+  "Sulawesi Tenggara": {
+    "province": "Sulawesi Tenggara",
+    "zone": "SULAWESI",
+    "baseCost": 40000,
+    "isProvinceFallback": true
+  },
+  "Maluku": {
+    "province": "Maluku",
+    "zone": "MALUKU",
+    "baseCost": 65000,
+    "isProvinceFallback": true
+  },
+  "Maluku Utara": {
+    "province": "Maluku Utara",
+    "zone": "MALUKU",
+    "baseCost": 68000,
+    "isProvinceFallback": true
+  },
+  "Papua": {
+    "province": "Papua",
+    "zone": "PAPUA",
+    "baseCost": 85000,
+    "isProvinceFallback": true
+  },
+  "Papua Barat": {
+    "province": "Papua Barat",
+    "zone": "PAPUA",
+    "baseCost": 85000,
+    "isProvinceFallback": true
+  },
+  "Papua Selatan": {
+    "province": "Papua Selatan",
+    "zone": "PAPUA",
+    "baseCost": 90000,
+    "isProvinceFallback": true
+  },
+  "Papua Tengah": {
+    "province": "Papua Tengah",
+    "zone": "PAPUA",
+    "baseCost": 95000,
+    "isProvinceFallback": true
+  },
+  "Papua Pegunungan": {
+    "province": "Papua Pegunungan",
+    "zone": "PAPUA",
+    "baseCost": 120000,
+    "isProvinceFallback": true
+  },
+  "Papua Barat Daya": {
+    "province": "Papua Barat Daya",
+    "zone": "PAPUA",
+    "baseCost": 85000,
+    "isProvinceFallback": true
+  },
+  "Surabaya": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 28000
+  },
+  "Malang": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 30000
+  },
+  "Sidoarjo": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Gresik": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Banyuwangi": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Jember": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Kediri": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Madiun": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Probolinggo": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Pasuruan": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Blitar": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Batu": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Mojokerto": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Tuban": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Bojonegoro": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Lamongan": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Jombang": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Nganjuk": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Tulungagung": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Trenggalek": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Pacitan": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Ponorogo": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Magetan": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Ngawi": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Situbondo": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Bondowoso": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Lumajang": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Bangkalan": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Sampang": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Pamekasan": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Sumenep": {
+    "province": "Jawa Timur",
+    "zone": "JAWA_TIMUR",
+    "baseCost": 32000
+  },
+  "Jakarta Pusat": {
+    "province": "DKI Jakarta",
+    "zone": "JABODETABEK",
+    "baseCost": 32000
+  },
+  "Jakarta Utara": {
+    "province": "DKI Jakarta",
+    "zone": "JABODETABEK",
+    "baseCost": 32000
+  },
+  "Jakarta Barat": {
+    "province": "DKI Jakarta",
+    "zone": "JABODETABEK",
+    "baseCost": 32000
+  },
+  "Jakarta Selatan": {
+    "province": "DKI Jakarta",
+    "zone": "JABODETABEK",
+    "baseCost": 32000
+  },
+  "Jakarta Timur": {
+    "province": "DKI Jakarta",
+    "zone": "JABODETABEK",
+    "baseCost": 32000
+  },
+  "Kepulauan Seribu": {
+    "province": "DKI Jakarta",
+    "zone": "JABODETABEK",
+    "baseCost": 32000
+  },
+  "Bandung": {
+    "province": "Jawa Barat",
+    "zone": "JAWA_BARAT",
+    "baseCost": 33000
+  },
+  "Bogor": {
+    "province": "Jawa Barat",
+    "zone": "JAWA_BARAT",
+    "baseCost": 35000
+  },
+  "Depok": {
+    "province": "Jawa Barat",
+    "zone": "JAWA_BARAT",
+    "baseCost": 35000
+  },
+  "Bekasi": {
+    "province": "Jawa Barat",
+    "zone": "JAWA_BARAT",
+    "baseCost": 35000
+  },
+  "Cimahi": {
+    "province": "Jawa Barat",
+    "zone": "JAWA_BARAT",
+    "baseCost": 35000
+  },
+  "Cirebon": {
+    "province": "Jawa Barat",
+    "zone": "JAWA_BARAT",
+    "baseCost": 35000
+  },
+  "Sukabumi": {
+    "province": "Jawa Barat",
+    "zone": "JAWA_BARAT",
+    "baseCost": 35000
+  },
+  "Tasikmalaya": {
+    "province": "Jawa Barat",
+    "zone": "JAWA_BARAT",
+    "baseCost": 35000
+  },
+  "Banjar": {
+    "province": "Kalimantan Selatan",
+    "zone": "KALIMANTAN",
+    "baseCost": 35000
+  },
+  "Garut": {
+    "province": "Jawa Barat",
+    "zone": "JAWA_BARAT",
+    "baseCost": 35000
+  },
+  "Cianjur": {
+    "province": "Jawa Barat",
+    "zone": "JAWA_BARAT",
+    "baseCost": 35000
+  },
+  "Karawang": {
+    "province": "Jawa Barat",
+    "zone": "JAWA_BARAT",
+    "baseCost": 35000
+  },
+  "Purwakarta": {
+    "province": "Jawa Barat",
+    "zone": "JAWA_BARAT",
+    "baseCost": 35000
+  },
+  "Subang": {
+    "province": "Jawa Barat",
+    "zone": "JAWA_BARAT",
+    "baseCost": 35000
+  },
+  "Sumedang": {
+    "province": "Jawa Barat",
+    "zone": "JAWA_BARAT",
+    "baseCost": 35000
+  },
+  "Indramayu": {
+    "province": "Jawa Barat",
+    "zone": "JAWA_BARAT",
+    "baseCost": 35000
+  },
+  "Majalengka": {
+    "province": "Jawa Barat",
+    "zone": "JAWA_BARAT",
+    "baseCost": 35000
+  },
+  "Kuningan": {
+    "province": "Jawa Barat",
+    "zone": "JAWA_BARAT",
+    "baseCost": 35000
+  },
+  "Ciamis": {
+    "province": "Jawa Barat",
+    "zone": "JAWA_BARAT",
+    "baseCost": 35000
+  },
+  "Pangandaran": {
+    "province": "Jawa Barat",
+    "zone": "JAWA_BARAT",
+    "baseCost": 35000
+  },
+  "Tangerang": {
+    "province": "Banten",
+    "zone": "JAWA_BARAT",
+    "baseCost": 35000
+  },
+  "Tangerang Selatan": {
+    "province": "Banten",
+    "zone": "JAWA_BARAT",
+    "baseCost": 35000
+  },
+  "Serang": {
+    "province": "Banten",
+    "zone": "JAWA_BARAT",
+    "baseCost": 35000
+  },
+  "Cilegon": {
+    "province": "Banten",
+    "zone": "JAWA_BARAT",
+    "baseCost": 35000
+  },
+  "Lebak": {
+    "province": "Banten",
+    "zone": "JAWA_BARAT",
+    "baseCost": 35000
+  },
+  "Pandeglang": {
+    "province": "Banten",
+    "zone": "JAWA_BARAT",
+    "baseCost": 35000
+  },
+  "Semarang": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Surakarta": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Solo": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Magelang": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Salatiga": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Tegal": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Pekalongan": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Banyumas": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Purwokerto": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Cilacap": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Purbalingga": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Banjarnegara": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Kebumen": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Purworejo": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Wonosobo": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Boyolali": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Klaten": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Sukoharjo": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Wonogiri": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Karanganyar": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Sragen": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Grobogan": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Blora": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Rembang": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Pati": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Kudus": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Jepara": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Demak": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Temanggung": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Kendal": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Batang": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Pemalang": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Brebes": {
+    "province": "Jawa Tengah",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Yogyakarta": {
+    "province": "Daerah Istimewa Yogyakarta",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Sleman": {
+    "province": "Daerah Istimewa Yogyakarta",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Bantul": {
+    "province": "Daerah Istimewa Yogyakarta",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Gunungkidul": {
+    "province": "Daerah Istimewa Yogyakarta",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Kulon Progo": {
+    "province": "Daerah Istimewa Yogyakarta",
+    "zone": "JAWA_TENGAH",
+    "baseCost": 34000
+  },
+  "Nunukan": {
+    "province": "Kalimantan Utara",
+    "zone": "KALIMANTAN_UTARA",
+    "baseCost": 12000
+  },
+  "Tarakan": {
+    "province": "Kalimantan Utara",
+    "zone": "KALIMANTAN_UTARA",
+    "baseCost": 15000
+  },
+  "Bulungan": {
+    "province": "Kalimantan Utara",
+    "zone": "KALIMANTAN_UTARA",
+    "baseCost": 15000
+  },
+  "Malinau": {
+    "province": "Kalimantan Utara",
+    "zone": "KALIMANTAN_UTARA",
+    "baseCost": 15000
+  },
+  "Tana Tidung": {
+    "province": "Kalimantan Utara",
+    "zone": "KALIMANTAN_UTARA",
+    "baseCost": 15000
+  },
+  "Balikpapan": {
+    "province": "Kalimantan Timur",
+    "zone": "KALIMANTAN_TIMUR",
+    "baseCost": 25000
+  },
+  "Samarinda": {
+    "province": "Kalimantan Timur",
+    "zone": "KALIMANTAN_TIMUR",
+    "baseCost": 25000
+  },
+  "Bontang": {
+    "province": "Kalimantan Timur",
+    "zone": "KALIMANTAN_TIMUR",
+    "baseCost": 25000
+  },
+  "Kutai Kartanegara": {
+    "province": "Kalimantan Timur",
+    "zone": "KALIMANTAN_TIMUR",
+    "baseCost": 25000
+  },
+  "Kutai Timur": {
+    "province": "Kalimantan Timur",
+    "zone": "KALIMANTAN_TIMUR",
+    "baseCost": 25000
+  },
+  "Kutai Barat": {
+    "province": "Kalimantan Timur",
+    "zone": "KALIMANTAN_TIMUR",
+    "baseCost": 25000
+  },
+  "Mahakam Ulu": {
+    "province": "Kalimantan Timur",
+    "zone": "KALIMANTAN_TIMUR",
+    "baseCost": 25000
+  },
+  "Berau": {
+    "province": "Kalimantan Timur",
+    "zone": "KALIMANTAN_TIMUR",
+    "baseCost": 25000
+  },
+  "Penajam Paser Utara": {
+    "province": "Kalimantan Timur",
+    "zone": "KALIMANTAN_TIMUR",
+    "baseCost": 25000
+  },
+  "Paser": {
+    "province": "Kalimantan Timur",
+    "zone": "KALIMANTAN_TIMUR",
+    "baseCost": 25000
+  },
+  "Banjarmasin": {
+    "province": "Kalimantan Selatan",
+    "zone": "KALIMANTAN",
+    "baseCost": 35000
+  },
+  "Banjarbaru": {
+    "province": "Kalimantan Selatan",
+    "zone": "KALIMANTAN",
+    "baseCost": 35000
+  },
+  "Barito Kuala": {
+    "province": "Kalimantan Selatan",
+    "zone": "KALIMANTAN",
+    "baseCost": 35000
+  },
+  "Tapin": {
+    "province": "Kalimantan Selatan",
+    "zone": "KALIMANTAN",
+    "baseCost": 35000
+  },
+  "Hulu Sungai Selatan": {
+    "province": "Kalimantan Selatan",
+    "zone": "KALIMANTAN",
+    "baseCost": 35000
+  },
+  "Hulu Sungai Tengah": {
+    "province": "Kalimantan Selatan",
+    "zone": "KALIMANTAN",
+    "baseCost": 35000
+  },
+  "Hulu Sungai Utara": {
+    "province": "Kalimantan Selatan",
+    "zone": "KALIMANTAN",
+    "baseCost": 35000
+  },
+  "Tabalong": {
+    "province": "Kalimantan Selatan",
+    "zone": "KALIMANTAN",
+    "baseCost": 35000
+  },
+  "Tanah Bumbu": {
+    "province": "Kalimantan Selatan",
+    "zone": "KALIMANTAN",
+    "baseCost": 35000
+  },
+  "Tanah Laut": {
+    "province": "Kalimantan Selatan",
+    "zone": "KALIMANTAN",
+    "baseCost": 35000
+  },
+  "Kotabaru": {
+    "province": "Kalimantan Selatan",
+    "zone": "KALIMANTAN",
+    "baseCost": 35000
+  },
+  "Balangan": {
+    "province": "Kalimantan Selatan",
+    "zone": "KALIMANTAN",
+    "baseCost": 35000
+  },
+  "Makassar": {
+    "province": "Sulawesi Selatan",
+    "zone": "SULAWESI_SELATAN",
+    "baseCost": 35000
+  },
+  "Parepare": {
+    "province": "Sulawesi Selatan",
+    "zone": "SULAWESI_SELATAN",
+    "baseCost": 35000
+  },
+  "Palopo": {
+    "province": "Sulawesi Selatan",
+    "zone": "SULAWESI_SELATAN",
+    "baseCost": 35000
+  },
+  "Gowa": {
+    "province": "Sulawesi Selatan",
+    "zone": "SULAWESI_SELATAN",
+    "baseCost": 35000
+  },
+  "Bone": {
+    "province": "Sulawesi Selatan",
+    "zone": "SULAWESI_SELATAN",
+    "baseCost": 35000
+  },
+  "Maros": {
+    "province": "Sulawesi Selatan",
+    "zone": "SULAWESI_SELATAN",
+    "baseCost": 35000
+  },
+  "Pangkajene": {
+    "province": "Sulawesi Selatan",
+    "zone": "SULAWESI_SELATAN",
+    "baseCost": 35000
+  },
+  "Barru": {
+    "province": "Sulawesi Selatan",
+    "zone": "SULAWESI_SELATAN",
+    "baseCost": 35000
+  },
+  "Sidenreng Rappang": {
+    "province": "Sulawesi Selatan",
+    "zone": "SULAWESI_SELATAN",
+    "baseCost": 35000
+  },
+  "Wajo": {
+    "province": "Sulawesi Selatan",
+    "zone": "SULAWESI_SELATAN",
+    "baseCost": 35000
+  },
+  "Soppeng": {
+    "province": "Sulawesi Selatan",
+    "zone": "SULAWESI_SELATAN",
+    "baseCost": 35000
+  },
+  "Sinjai": {
+    "province": "Sulawesi Selatan",
+    "zone": "SULAWESI_SELATAN",
+    "baseCost": 35000
+  },
+  "Bulukumba": {
+    "province": "Sulawesi Selatan",
+    "zone": "SULAWESI_SELATAN",
+    "baseCost": 35000
+  },
+  "Bantaeng": {
+    "province": "Sulawesi Selatan",
+    "zone": "SULAWESI_SELATAN",
+    "baseCost": 35000
+  },
+  "Jeneponto": {
+    "province": "Sulawesi Selatan",
+    "zone": "SULAWESI_SELATAN",
+    "baseCost": 35000
+  },
+  "Takalar": {
+    "province": "Sulawesi Selatan",
+    "zone": "SULAWESI_SELATAN",
+    "baseCost": 35000
+  },
+  "Selayar": {
+    "province": "Sulawesi Selatan",
+    "zone": "SULAWESI_SELATAN",
+    "baseCost": 35000
+  },
+  "Luwu": {
+    "province": "Sulawesi Selatan",
+    "zone": "SULAWESI_SELATAN",
+    "baseCost": 35000
+  },
+  "Luwu Utara": {
+    "province": "Sulawesi Selatan",
+    "zone": "SULAWESI_SELATAN",
+    "baseCost": 35000
+  },
+  "Luwu Timur": {
+    "province": "Sulawesi Selatan",
+    "zone": "SULAWESI_SELATAN",
+    "baseCost": 35000
+  },
+  "Tana Toraja": {
+    "province": "Sulawesi Selatan",
+    "zone": "SULAWESI_SELATAN",
+    "baseCost": 35000
+  },
+  "Toraja Utara": {
+    "province": "Sulawesi Selatan",
+    "zone": "SULAWESI_SELATAN",
+    "baseCost": 35000
+  },
+  "Enrekang": {
+    "province": "Sulawesi Selatan",
+    "zone": "SULAWESI_SELATAN",
+    "baseCost": 35000
+  },
+  "Pinrang": {
+    "province": "Sulawesi Selatan",
+    "zone": "SULAWESI_SELATAN",
+    "baseCost": 35000
+  },
+  "Medan": {
+    "province": "Sumatera Utara",
+    "zone": "SUMATERA_UTARA",
+    "baseCost": 55000
+  },
+  "Binjai": {
+    "province": "Sumatera Utara",
+    "zone": "SUMATERA_UTARA",
+    "baseCost": 55000
+  },
+  "Tebing Tinggi": {
+    "province": "Sumatera Utara",
+    "zone": "SUMATERA_UTARA",
+    "baseCost": 55000
+  },
+  "Pematangsiantar": {
+    "province": "Sumatera Utara",
+    "zone": "SUMATERA_UTARA",
+    "baseCost": 55000
+  },
+  "Tanjungbalai": {
+    "province": "Sumatera Utara",
+    "zone": "SUMATERA_UTARA",
+    "baseCost": 55000
+  },
+  "Sibolga": {
+    "province": "Sumatera Utara",
+    "zone": "SUMATERA_UTARA",
+    "baseCost": 55000
+  },
+  "Padangsidimpuan": {
+    "province": "Sumatera Utara",
+    "zone": "SUMATERA_UTARA",
+    "baseCost": 55000
+  },
+  "Gunungsitoli": {
+    "province": "Sumatera Utara",
+    "zone": "SUMATERA_UTARA",
+    "baseCost": 55000
+  },
+  "Deli Serdang": {
+    "province": "Sumatera Utara",
+    "zone": "SUMATERA_UTARA",
+    "baseCost": 55000
+  },
+  "Langkat": {
+    "province": "Sumatera Utara",
+    "zone": "SUMATERA_UTARA",
+    "baseCost": 55000
+  },
+  "Karo": {
+    "province": "Sumatera Utara",
+    "zone": "SUMATERA_UTARA",
+    "baseCost": 55000
+  },
+  "Simalungun": {
+    "province": "Sumatera Utara",
+    "zone": "SUMATERA_UTARA",
+    "baseCost": 55000
+  },
+  "Asahan": {
+    "province": "Sumatera Utara",
+    "zone": "SUMATERA_UTARA",
+    "baseCost": 55000
+  },
+  "Labuhanbatu": {
+    "province": "Sumatera Utara",
+    "zone": "SUMATERA_UTARA",
+    "baseCost": 55000
+  },
+  "Tapanuli Utara": {
+    "province": "Sumatera Utara",
+    "zone": "SUMATERA_UTARA",
+    "baseCost": 55000
+  },
+  "Tapanuli Selatan": {
+    "province": "Sumatera Utara",
+    "zone": "SUMATERA_UTARA",
+    "baseCost": 55000
+  },
+  "Tapanuli Tengah": {
+    "province": "Sumatera Utara",
+    "zone": "SUMATERA_UTARA",
+    "baseCost": 55000
+  },
+  "Nias": {
+    "province": "Sumatera Utara",
+    "zone": "SUMATERA_UTARA",
+    "baseCost": 55000
+  },
+  "Mandailing Natal": {
+    "province": "Sumatera Utara",
+    "zone": "SUMATERA_UTARA",
+    "baseCost": 55000
+  },
+  "Toba": {
+    "province": "Sumatera Utara",
+    "zone": "SUMATERA_UTARA",
+    "baseCost": 55000
+  },
+  "Samosir": {
+    "province": "Sumatera Utara",
+    "zone": "SUMATERA_UTARA",
+    "baseCost": 55000
+  },
+  "Denpasar": {
+    "province": "Bali",
+    "zone": "BALI",
+    "baseCost": 38000
+  },
+  "Badung": {
+    "province": "Bali",
+    "zone": "BALI",
+    "baseCost": 38000
+  },
+  "Gianyar": {
+    "province": "Bali",
+    "zone": "BALI",
+    "baseCost": 38000
+  },
+  "Tabanan": {
+    "province": "Bali",
+    "zone": "BALI",
+    "baseCost": 38000
+  },
+  "Buleleng": {
+    "province": "Bali",
+    "zone": "BALI",
+    "baseCost": 38000
+  },
+  "Karangasem": {
+    "province": "Bali",
+    "zone": "BALI",
+    "baseCost": 38000
+  },
+  "Klungkung": {
+    "province": "Bali",
+    "zone": "BALI",
+    "baseCost": 38000
+  },
+  "Bangli": {
+    "province": "Bali",
+    "zone": "BALI",
+    "baseCost": 38000
+  },
+  "Jembrana": {
+    "province": "Bali",
+    "zone": "BALI",
+    "baseCost": 38000
+  },
+  "Jayapura": {
+    "province": "Papua",
+    "zone": "PAPUA",
+    "baseCost": 85000
+  },
+  "Keerom": {
+    "province": "Papua",
+    "zone": "PAPUA",
+    "baseCost": 85000
+  },
+  "Sarmi": {
+    "province": "Papua",
+    "zone": "PAPUA",
+    "baseCost": 85000
+  },
+  "Biak Numfor": {
+    "province": "Papua",
+    "zone": "PAPUA",
+    "baseCost": 85000
+  },
+  "Supiori": {
+    "province": "Papua",
+    "zone": "PAPUA",
+    "baseCost": 85000
+  },
+  "Yapen": {
+    "province": "Papua",
+    "zone": "PAPUA",
+    "baseCost": 85000
+  },
+  "Waropen": {
+    "province": "Papua",
+    "zone": "PAPUA",
+    "baseCost": 85000
+  },
+  "Mamberamo Raya": {
+    "province": "Papua",
+    "zone": "PAPUA",
+    "baseCost": 85000
+  }
+}
